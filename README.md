@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   Hi 👋 I'm Taka10 🏀 
 </h1>
 
-<h4 align="center">
+<h3 align="center">
   Now：I'm a graduate student at Kyoto Institute of Technology.
-</h4>
+</h3>
 
 <p align="center">
   I’m currently studying <strong>Information Engineering</strong> while working as a <strong>game programmer and planner</strong> at a game company．  
