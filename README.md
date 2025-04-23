@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# self-introduction
-I'm a graduate student at Kyoto Institute of Technology.
+
+<h1 align="center">
+  Hi 👋 I'm Taka10 🏀 
+</h1>
+
+<h5 align="center">
+  Now：I'm a graduate student at Kyoto Institute of Technology.
+</h5>
 
 ## Technical Skills
 Lang: 
