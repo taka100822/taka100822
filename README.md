@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   Hi 👋 I'm Taka10 🏀 
 </h1>
 
-<h5 align="center">
+<h4 align="center">
   Now：I'm a graduate student at Kyoto Institute of Technology.
-</h5>
+</h4>
 
 ## Technical Skills
 Lang: 
