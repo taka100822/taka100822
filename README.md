@@ -21,6 +21,12 @@ Here are some ideas to get you started:
   Now：I'm a graduate student at Kyoto Institute of Technology.
 </h4>
 
+<p align="center">
+  I’m currently studying <strong>Information Engineering</strong> while working as a <strong>game programmer and planner</strong> at a game company．  
+  My passion lies in creating unique gameplay experiences, especially using <strong>Unity</strong>．  
+  I also enjoy diving into web tech with <strong>Vue / Nuxt</strong> and analyzing user interaction through <strong>UI/UX research</strong>．
+</p>
+
 ## Technical Skills
 Lang: 
 
