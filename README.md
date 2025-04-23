@@ -42,7 +42,9 @@ Misc:
 
 ![](https://skillicons.dev/icons?i=vscode,eclipse,discord,linux,git,github,bitbucket,unity,blender)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taka100822&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
