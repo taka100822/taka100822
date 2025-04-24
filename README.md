@@ -35,10 +35,10 @@
 | Title | Genre | Tech | Description | Link |
 |-------|-------|------|-------------|------|
 | わけあい | Action | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) / [Play](https://unityroom.com/games/wakeai) |
-| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用） | [GitHub](https://github.com/taka100822/puzzle-game) |
 | 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当しました | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) |
+| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用） |  |
 
 ---
 
