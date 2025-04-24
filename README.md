@@ -58,8 +58,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" height="200"/>
 </p>
 
 ---
