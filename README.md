@@ -34,11 +34,11 @@
 
 | Title | Genre | Tech | Description | Link |
 |-------|-------|------|-------------|------|
-| わけあい | Action | Unity, C# | タイミングよく合いの手を入れて盛り上げる新感覚ゲーム | [GitHub]([https://github.com/taka100822/unity1weekjam](https://github.com/taka100822/Unity1WeekGameJam_1st)) / [Play]([https://your-demo-link.com](https://unityroom.com/games/wakeai)) |
-| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用）| [GitHub]([https://github.com/taka100822/puzzle-game) |
-| 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub]([https://github.com/taka100822/webuxlab](https://github.com/taka100822/Graduation-Study)) |
-| チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub]([[https://github.com/taka100822/webuxlab](https://github.com/taka100822/Graduation-Study)](https://github.com/taka100822/puzzlerun](https://github.com/taka100822/chat-app))) |
-| 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当しました | [GitHub]([[[https://github.com/taka100822/webuxlab](https://github.com/taka100822/Graduation-Study)](https://github.com/taka100822/puzzlerun](https://github.com/taka100822/chat-app))](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager)) |
+| わけあい | Action | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) / [Play](https://unityroom.com/games/wakeai) |
+| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用） | [GitHub](https://github.com/taka100822/puzzle-game) |
+| 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) |
+| チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) |
+| 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当しました | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) |
 
 ---
 
