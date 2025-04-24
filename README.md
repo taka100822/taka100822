@@ -48,10 +48,10 @@
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
 | わけあい | Action | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
-| 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom] |
+| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
+| 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当しました | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
-| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 
 ---
 
