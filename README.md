@@ -57,10 +57,6 @@
 
 ## 🏢 Organization
 
-I am currently part of the **[Your Organization Name]**, where I collaborate with talented individuals to work on various projects.
-
-### Projects at [Your Organization Name]
-
 | Title | Description | Link |
 |-------|-------------|------|
 | Procon25C | Labメンバーでの共同開発 | [GitHub Link](https://github.com/procon25C) |
