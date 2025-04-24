@@ -1,52 +1,69 @@
-<!--
-**taka100822/taka100822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">
-  Hi 👋 I'm Taka10 🏀 
+  Hi 👋 I'm Taka10 🏀
 </h1>
 
 <h3 align="center">
-  Now：I'm a graduate student at Kyoto Institute of Technology.
+  Now：I'm a graduate student in Kyoto.
+  
+  現在：京都の大学院生です。
 </h3>
 
 <p align="center">
   I’m currently studying <strong>Information Engineering</strong> while working as a <strong>game programmer and planner</strong> at a game company．  
   My passion lies in creating unique gameplay experiences, especially using <strong>Unity</strong>．  
-  I also enjoy diving into web tech with <strong>Vue / Nuxt</strong> and analyzing user interaction through <strong>UI/UX research</strong>．
+  I also enjoy exploring <strong>research on cognition based on the amount of visual information</strong> and developing web apps with <strong>Vue / Nuxt</strong>．
+
+  現在は<strong>情報工学</strong>を勉強しながら、ゲーム会社で<strong>ゲームプログラマー兼プランナー</strong>として働いています。
+  特に<strong>Unity</strong>を使ってユニークなゲームプレイ体験を創ることに情熱を注いでいます。
+  また、<strong>視覚情報の多寡による認知に関する研究</strong>や<strong>Vue / Nuxt</strong>を使ったWebアプリ開発にも力を入れています。
 </p>
 
-## Technical Skills
-Lang: 
+---
 
+## 🎯 Strengths
+
+- 🎮 Unityを使った2D/3Dゲーム制作（企画・実装）
+- 📊 ユーザ調査やアンケートを用いたUX分析
+- 🌐 Vue / Nuxtによるフロントエンド開発
+- 🤝 チーム開発経験あり（Git / Bitbucket）
+
+---
+
+## 🎮 My Games & Projects
+
+| Title | Genre | Tech | Description | Link |
+|-------|-------|------|-------------|------|
+| わけあい | Action | Unity, C# | タイミングよく合いの手を入れて盛り上げる新感覚ゲーム | [GitHub]([https://github.com/taka100822/unity1weekjam](https://github.com/taka100822/Unity1WeekGameJam_1st)) / [Play]([https://your-demo-link.com](https://unityroom.com/games/wakeai)) |
+| パズルゲーム | Puzzle | Unity, C# | パズル&ドラゴンズのようなパズルゲーム（練習用）| [GitHub]([https://github.com/taka100822/puzzle-game) |
+| 研究用に作成した2Dゲーム | Research | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub]([https://github.com/taka100822/webuxlab](https://github.com/taka100822/Graduation-Study)) |
+| チャットアプリ | app | Vue, Nuxt | チャットアプリ | [GitHub]([[https://github.com/taka100822/webuxlab](https://github.com/taka100822/Graduation-Study)](https://github.com/taka100822/puzzlerun](https://github.com/taka100822/chat-app))) |
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
 ![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin)
 
-![](https://skillicons.dev/icons?i=html,css,latex,r)
+**Web / UI**  
+![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify)
 
-Flamework/Library:
+**Tools & Engines**  
+![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux)
 
-![](https://skillicons.dev/icons?i=nuxtjs,vue,vuetify)
+---
 
-Misc:
+## 📈 GitHub Stats
 
-![](https://skillicons.dev/icons?i=vscode,eclipse,discord,linux,git,github,bitbucket,unity,blender)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" height="160"/>
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io)
+## 🏆 GitHub Trophies
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=taka100822&theme=juicyfresh&no-bg=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taka100822&theme=juicyfresh&no-bg=true" />
+</p>
