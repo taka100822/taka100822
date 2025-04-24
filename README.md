@@ -57,11 +57,11 @@
 
 ## 🏢 Organization
 
-| Title | Description | Link |
-|-------|-------------|------|
-| Procon25C | Labメンバーでの共同開発 | [GitHub Link](https://github.com/procon25C) |
-| TOMSN | ゲームの共同開発チーム | [GitHub Link](https://github.com/TOMSNtomsn) |
+- **[Procon25C](https://github.com/procon25C)**  
+  Labメンバーでの共同開発
 
+- **[TOMSN](https://github.com/TOMSNtomsn)**  
+  ゲームの共同開発チーム
 ---
 
 ## 📈 GitHub Stats
