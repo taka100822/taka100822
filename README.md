@@ -55,7 +55,7 @@ Zapier, Tiled, Revo Scan
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | 脱出ゲーム | Escape | Unity, C# | 研究室のメンバーで制作中 |	— | — |
-| アクションゲーム(名前未定) | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
+| アクションゲーム(名称未定) | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
