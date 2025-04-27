@@ -55,6 +55,7 @@
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
+| 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約のためデータはありません) | — |	— |
 
 ---
 
