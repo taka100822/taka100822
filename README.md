@@ -42,6 +42,9 @@
 **Tools & Engines**  
 ![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux)
 
+**Others**  
+Zapier, Tiled, Revo Scan
+
 ---
 
 ## 🎮 My Games & Projects
