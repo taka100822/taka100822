@@ -13,7 +13,7 @@
   My passion lies in creating unique gameplay experiences, especially using <strong>Unity</strong>．  
   I also enjoy exploring <strong>research on cognition based on the amount of visual information</strong> and developing web apps with <strong>Vue / Nuxt</strong>．
 
-  現在は<strong>情報工学</strong>を勉強しながら、ゲーム会社で<strong>ゲームプログラマー兼プランナー</strong>として働いています。
+  現在は<strong>情報工学</strong>を学びながら、ゲーム会社で<strong>ゲームプログラマー兼プランナー</strong>として働いています。
   特に<strong>Unity</strong>を使ってユニークなゲームプレイ体験を創ることに情熱を注いでいます。
   また、<strong>視覚情報の多寡による認知に関する研究</strong>や<strong>Vue / Nuxt</strong>を使ったWebアプリ開発にも力を入れています。
 </p>
