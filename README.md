@@ -56,6 +56,7 @@ Zapier, Tiled, Revo Scan
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | 脱出ゲーム | Escape | Unity, C# | 研究室のメンバーで制作中 |	— | — |
 | アクションゲーム(名称未定) | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
+| ゲーム(名称未定) | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	— | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
@@ -71,7 +72,9 @@ Zapier, Tiled, Revo Scan
   
 - **[Procon25C](https://github.com/procon25C)**  
   Labメンバーでの共同開発チーム
----
+
+- **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**
+  BitSummitGameJam2025での共同開発チーム
 
 ## 📈 GitHub Stats
 
