@@ -73,7 +73,7 @@ Zapier, Tiled, Revo Scan
 - **[Procon25C](https://github.com/procon25C)**  
   Labメンバーでの共同開発チーム
 
-- **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**
+- **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
 
 ## 📈 GitHub Stats
