@@ -35,7 +35,7 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin)
+![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin,r,latex)
 
 **Web / UI**  
 ![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify)
