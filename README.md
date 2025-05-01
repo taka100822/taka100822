@@ -76,6 +76,8 @@ Zapier, Tiled, Revo Scan
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
