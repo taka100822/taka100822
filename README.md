@@ -41,10 +41,10 @@
 ![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify)
 
 **Tools & Engines**  
-![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux)
+![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux,notion)
 
 **Others**  
-Zapier, Tiled, Revo Scan
+Zapier, Tiled, Revo Scan,Photon
 
 ---
 
@@ -54,7 +54,7 @@ Zapier, Tiled, Revo Scan
 |-------|-------|------|-------------|------|------|
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
-| 脱出ゲーム | Escape | Unity, C# | 研究室のメンバーで制作中 |	— | — |
+| 脱出ゲーム | **Multi** Escape | Unity, C# | 研究室のメンバーで制作中、マルチプレイ |	— | — |
 | アクションゲーム(名称未定) | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
 | ゲーム(名称未定) | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	— | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
