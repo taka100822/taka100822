@@ -44,7 +44,7 @@
 ![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux,notion)
 
 **Others**  
-Zapier, Tiled, Revo Scan,Photon
+Zapier, Tiled, Revo Scan, Photon
 
 ---
 
