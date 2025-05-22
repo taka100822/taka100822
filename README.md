@@ -53,11 +53,11 @@ Zapier, Tiled, Revo Scan, Photon
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
-| パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | 研究室からの脱出 | **Multi** Escape | Unity, C# | 研究室のメンバーで制作中、マルチプレイ |	— | — |
 | CrashReport | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
 | DreamMayDay | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	— | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
+| パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
 | 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約のためデータなし) | — |	— |
