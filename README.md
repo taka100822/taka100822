@@ -54,7 +54,7 @@ Zapier, Tiled, Revo Scan, Photon
 |-------|-------|------|-------------|------|------|
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
-| 脱出ゲーム | **Multi** Escape | Unity, C# | 研究室のメンバーで制作中、マルチプレイ |	— | — |
+| 研究室からの脱出 | **Multi** Escape | Unity, C# | 研究室のメンバーで制作中、マルチプレイ |	— | — |
 | CrashReport | 3DAction | Unity, C# | 学生5人で制作中（PG&プランナー） |	— | — |
 | DreamMayDay | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	— | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報の多寡に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
