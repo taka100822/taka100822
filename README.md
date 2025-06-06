@@ -53,9 +53,9 @@ Zapier, Tiled, Revo Scan, Photon
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
-| 研究室からの脱出 | **Multi**Escape | Unity, C# | 研究室のチームで制作したマルチプレイ脱出ゲーム |	— | — |
-| CRASH REPORT | 3DAction | Unity, C# | 有志の学生5人で制作した作品（PG&プランナー） |	— | — |
-| DreamMayDay | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	— | — |
+| 研究室からの脱出 | **Multi**Escape | Unity, C# | 研究室のチームで制作したマルチプレイ脱出ゲーム |	[GitHub](https://github.com/taka100822/LabEscapeGame) | — |
+| CRASH REPORT | 3DAction | Unity, C# | 有志の学生5人で制作した作品（PG&プランナー） |	[GitHub]() | — |
+| DreamMayDay | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	[GitHub]() | — |
 | 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
@@ -68,10 +68,7 @@ Zapier, Tiled, Revo Scan, Photon
 
 - **[TOMSN](https://github.com/TOMSNtomsn)**  
   有志5人によるの共同開発チーム
-  ([Instagram](https://www.instagram.com/tomsn_works?igsh=MTlodm5pZHpwY3B1&utm_source=qr), [X](https://x.com/tomsn_works?s=21&t=quSap16NeGI_YNEzJMawBg))
-  
-- **[Procon25C](https://github.com/procon25C)**  
-  Labメンバーでの共同開発チーム
+  ([Instagram](https://www.instagram.com/tomsn_works?igsh=MTlodm5pZHpwY3B1&utm_source=qr), [X](https://x.com/tomsn_works?s=21&t=quSap16NeGI_YNEzJMawBg), [unityroom](https://unityroom.com/users/tomsn))
 
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
