@@ -38,7 +38,7 @@
 ![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin,r,latex)
 
 **Web / UI**  
-![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify)
+![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,npm)
 
 **Tools & Engines**  
 ![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux,notion)
