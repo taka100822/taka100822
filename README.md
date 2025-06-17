@@ -52,11 +52,11 @@ Zapier, Tiled, Revo Scan, Photon
 
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
-| CRASH REPORT | 3DAction | Unity, C# | 有志の学生5人で制作した作品（PG&プランナー） |	[GitHub](https://github.com/TOMSNtomsn/CRASH-REPORT) | [unityroom](https://unityroom.com/games/crash_report) |
+| CRASH REPORT | 3DAction | Unity, C# | TOMSN(学生チーム)での作品（PG&プランナー） |	[GitHub](https://github.com/TOMSNtomsn/CRASH-REPORT) | [unityroom](https://unityroom.com/games/crash_report) |
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
 | 研究室からの脱出 | **Multi**Escape | Unity, C# | 研究室のチームで制作したマルチプレイ脱出ゲーム |	[GitHub](https://github.com/taka100822/LabEscapeGame) | — |
 | DreamMayDay | - | Unity, C# | BSGM2025で制作中（PG&プランナー）|	[GitHub] | [icho.io] |
-| 研究用に作成したゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
+| 研究用ゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	— | [unityroom](https://unityroom.com/games/pazlegame_practice) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
