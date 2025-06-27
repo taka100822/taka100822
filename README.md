@@ -55,7 +55,8 @@
 ### 🗂️ Productivity & Utility Tools (No Icon)  
 - Slack  
 - Google Workspace（Docs, Sheets, Slides, Forms, Drive, Gmail）  
-- Microsoft Office（Word, Excel, PowerPoint）  
+- Microsoft Office（Word, Excel, PowerPoint）
+- Canva
 - Zapier  
 - Tiled（2Dマップエディタ）  
 - CyberLink PowerDirector（動画編集）  
