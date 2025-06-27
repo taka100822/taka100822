@@ -52,7 +52,7 @@
 **🧠 Others / Collaboration**  
 ![](https://skillicons.dev/icons?i=figma,notion,discord)
 
-### 🗂️ Productivity & Utility Tools (No Icon)  
+**🗂️ Productivity & Utility Tools (No Icon)**  
 - Slack  
 - Google Workspace（Docs, Sheets, Slides, Forms, Drive, Gmail）  
 - Microsoft Office（Word, Excel, PowerPoint）
