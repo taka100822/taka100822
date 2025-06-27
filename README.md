@@ -78,7 +78,7 @@
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	[GitHub](https://github.com/taka100822/puzzle-game) | [unityroom](https://unityroom.com/games/puzzlegame_practice) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
-| 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約のためデータなし) | — |	— |
+| 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約よりデータなし) | — |	— |
 
 ---
 
