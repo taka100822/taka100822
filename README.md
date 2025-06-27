@@ -34,17 +34,33 @@
 
 ## 🛠 Tech Stack
 
-**Languages**  
-![](https://skillicons.dev/icons?i=c,cs,py,java,kotlin,r,latex)
+**📌 Languages**  
+![](https://skillicons.dev/icons?i=c,cs,py,js,java,kotlin,r,latex)
 
-**Web / UI**  
-![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,npm)
+**🌐 Frontend / Web Frameworks**  
+![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,tailwind)
 
-**Tools & Engines**  
-![](https://skillicons.dev/icons?i=unity,blender,git,github,bitbucket,vscode,linux,notion)
+**🔧 Tools & Platforms**  
+![](https://skillicons.dev/icons?i=nodejs,npm,firebase,git,github,bitbucket)
 
-**Others**  
-Zapier, Tiled, Revo Scan, Photon
+**🎮 Game / 3D Tools**  
+![](https://skillicons.dev/icons?i=unity,blender)
+
+**🛠️ Dev Environments**  
+![](https://skillicons.dev/icons?i=vscode,eclipse,linux)
+
+**🧠 Others / Collaboration**  
+![](https://skillicons.dev/icons?i=figma,notion,discord)
+
+### 🗂️ Productivity & Utility Tools (No Icon)  
+- Slack  
+- Google Workspace（Docs, Sheets, Slides, Forms, Drive, Gmail）  
+- Microsoft Office（Word, Excel, PowerPoint）  
+- Zapier  
+- Tiled（2Dマップエディタ）  
+- CyberLink PowerDirector（動画編集）  
+- Revo Scan（3Dスキャナソフト）  
+- Photon（Unityでのマルチプレイ実装に使用）
 
 ---
 
