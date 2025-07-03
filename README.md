@@ -50,7 +50,7 @@
 ![](https://skillicons.dev/icons?i=vscode,eclipse,linux)
 
 **🧠 Others / Collaboration**  
-![](https://skillicons.dev/icons?i=figma,notion,discord)
+![](https://skillicons.dev/icons?i=notion,discord)
 
 **🗂️ Productivity & Utility Tools (No Icon)**  
 - Slack  
