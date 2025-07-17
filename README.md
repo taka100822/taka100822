@@ -70,7 +70,7 @@
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
 | CRASH REPORT | 3DAction | Unity, C# | TOMSN(学生チーム)での作品（PG&プランナー） |	[GitHub](https://github.com/TOMSNtomsn/CRASH-REPORT) | [unityroom](https://unityroom.com/games/crash_report) |
-| POGO・Stadium | Action Strategy | Unity, C# | アルバイトで企画・実装に携わったゲーム | - | [Steam](https://store.steampowered.com/app/3672410/POGO_Stadium) |
+| POGO・Stadium | Action Strategy | Unity, C# | アルバイトで企画・実装に携わったゲーム | — | [Steam](https://store.steampowered.com/app/3672410/POGO_Stadium) |
 | 研究室からの脱出 | **Multi** Escape | Unity, C# | 研究室チームで制作したマルチプレイ脱出ゲーム |	[GitHub](https://github.com/taka100822/LabEscapeGame) | — |
 | DreamMayDay | Cooperative | Unity, C# | BSGM2025で制作（PG&プランナー）|	[GitHub](https://github.com/BSGJ2025-w-12/DreamMayday_Scripts) | [itch.io](https://bitsummit-gamejam.itch.io/dreammayday) |
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
