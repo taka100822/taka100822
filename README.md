@@ -69,13 +69,14 @@
 
 | Title | Genre | Tech | Description | Code Link | Play Link |
 |-------|-------|------|-------------|------|------|
+| DreamMayDay | Cooperative | Unity, C# | BSGM2025で制作、総合グランプリ受賞|	[GitHub](https://github.com/BSGJ2025-w-12/DreamMayday_Scripts) | [itch.io](https://bitsummit-gamejam.itch.io/dreammayday) |
 | CRASH REPORT | 3DAction | Unity, C# | TOMSN(学生チーム)での作品（PG&プランナー） |	[GitHub](https://github.com/TOMSNtomsn/CRASH-REPORT) | [unityroom](https://unityroom.com/games/crash_report) |
 | POGO・Stadium | Action Strategy | Unity, C# | アルバイトで企画・実装に携わったゲーム | — | [Steam](https://store.steampowered.com/app/3672410/POGO_Stadium) |
 | 研究室からの脱出 | **Multi** Escape | Unity, C# | 研究室チームで制作したマルチプレイ脱出ゲーム |	[GitHub](https://github.com/taka100822/LabEscapeGame) | — |
-| DreamMayDay | Cooperative | Unity, C# | BSGM2025で制作、総合グランプリ受賞|	[GitHub](https://github.com/BSGJ2025-w-12/DreamMayday_Scripts) | [itch.io](https://bitsummit-gamejam.itch.io/dreammayday) |
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
 | 研究用ゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	[GitHub](https://github.com/taka100822/puzzle-game) | [unityroom](https://unityroom.com/games/puzzlegame_practice) |
+| Taka's Portfolio | Portfolio | JS, React | 今までの制作物をポートフォリオとして公開 |	[GitHub](https://github.com/taka100822/Portfolio-Site) | [Web](https://taka100822.github.io/Portfolio-Site/) |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
 | 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約よりデータなし) | — |	— |
