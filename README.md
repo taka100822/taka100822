@@ -53,7 +53,8 @@
 ![](https://skillicons.dev/icons?i=notion,discord)
 
 **🗂️ Productivity & Utility Tools (No Icon)**  
-- Slack  
+- Slack
+- Redmine 
 - Google Workspace（Docs, Sheets, Slides, Forms, Drive, Gmail）  
 - Microsoft Office（Word, Excel, PowerPoint）
 - Canva
