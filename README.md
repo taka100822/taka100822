@@ -23,6 +23,7 @@
 ## 🎯 Strengths
 
 - 🎮 Unityを使った2D/3Dゲーム制作（企画・実装）
+- 👾 BitSummit2025にてゲームジャムアワード受賞
 - 📊 アンケートを用いたUX分析
 - 🌐 Vue / NuxtによるWebサービス開発
 - 🤝 チーム開発経験あり（Git / Bitbucket）
