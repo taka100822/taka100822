@@ -48,7 +48,7 @@
 ![](https://skillicons.dev/icons?i=unity,blender)
 
 **🛠️ Dev Environments**  
-![](https://skillicons.dev/icons?i=vscode,eclipse,linux)
+![](https://skillicons.dev/icons?i=vscode,eclipse,linux,figma)
 
 **🧠 Others / Collaboration**  
 ![](https://skillicons.dev/icons?i=notion,discord)
