@@ -97,19 +97,3 @@
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&theme=chartreuse-dark&exclude_repo=github-readme-stats,anuraghazra.github.io" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&locale=en&theme=chartreuse-dark" height="200"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taka100822&theme=juicyfresh&no-bg=true" />
-</p>
