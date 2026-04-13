@@ -24,6 +24,7 @@
 
 - 🎮 Unityを使った2D/3Dゲーム制作（企画・実装）
 - 👾 BitSummit2025にてGamejamアワード受賞
+- 🏢 企業でのアルバイト（約2年）・インターンシップ（2週間）
 - 🌐 Vue / Nuxt, ReactによるWebサービス開発
 - 📊 アンケートを用いたUX分析
 - 🤝 チーム開発経験あり（Git / Bitbucket）
