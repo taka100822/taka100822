@@ -9,13 +9,13 @@
 </h3>
 
 <p align="center">
-  I’m currently studying <strong>Information Engineering</strong> while working as a <strong>game programmer and planner</strong> at a game company．  
+  Currently, I am studying <strong>information engineering</strong> while <strong>developing games</strong> with a team called "TOMSN". 
   My passion lies in creating unique gameplay experiences, especially using <strong>Unity</strong>．  
-  I also enjoy exploring <strong>research on cognition based on the amount of visual information</strong> and developing web apps with <strong>Vue / Nuxt</strong>．
+  I also enjoy exploring <strong>research on cognition based on the amount of visual information</strong> and developing web apps．
 
-  現在は<strong>情報工学</strong>を学びながら、ゲーム会社で<strong>ゲームプログラマー兼プランナー</strong>として働いています。
+  現在は<strong>情報工学</strong>を学びながら、「TOMSN」というチームでゲームを制作しています。
   特に<strong>Unity</strong>を使ってユニークなゲームプレイ体験を創ることに情熱を注いでいます。
-  また、<strong>視覚情報の多寡による認知に関する研究</strong>や<strong>Vue / Nuxt</strong>を使ったWebアプリ開発にも力を入れています。
+  また、<strong>視覚情報の多寡による認知に関する研究</strong>やWebアプリ開発にも力を入れています。
 </p>
 
 ---
