@@ -93,7 +93,7 @@
 ## 🏢 Organization
 
 - **[TOMSN](https://github.com/TOMSNtomsn)**  
-  関西の学生9人によるの共同開発チーム
+  関西の学生8人によるの共同開発チーム
   ([Instagram](https://www.instagram.com/tomsn_works?igsh=MTlodm5pZHpwY3B1&utm_source=qr), [X](https://x.com/tomsn_works?s=21&t=quSap16NeGI_YNEzJMawBg), [unityroom](https://unityroom.com/users/tomsn))
 
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
