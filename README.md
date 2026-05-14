@@ -57,7 +57,7 @@
 **🎮 Game / 3D Tools**  
 ![](https://skillicons.dev/icons?i=unity,blender)
 
-`Tiled` `Photon` `miro` `Revo Scan`
+`Tiled` `Photon` `Revo Scan`
 
 **🛠️ Dev Environments**  
 ![](https://skillicons.dev/icons?i=vscode,eclipse,linux,figma)
@@ -67,7 +67,7 @@
 **💬 Others / Collaboration**  
 ![](https://skillicons.dev/icons?i=notion,discord)
 
-`Slack` `Redmine` `Google Workspace` `Microsoft Office` `PowerDirector` `Zapier` `Canva` 
+`Slack` `miro` `Redmine` `Google Workspace` `Microsoft Office` `PowerDirector` `Zapier` `Canva` 
 
 **🧠 AI Assistants**
 
