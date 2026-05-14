@@ -1,21 +1,40 @@
-<h1 align="center">
-  Hi 👋 I'm Taka10 🏀
-</h1>
+<!-- ==================== CUSTOM SVG HEADER ==================== -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" />
+</p>
 
+<!-- ==================== BADGES ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-Developer-black?style=for-the-badge&logo=unity"/>
+  <img src="https://img.shields.io/badge/Gameplay-Designer-7B68EE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX-Researcher-00C2FF?style=for-the-badge"/>
+</p>
+
+<!-- ==================== ABOUT ==================== -->
 <h3 align="center">
-  Now：I'm a graduate student in Kyoto.
-  
-  現在：京都の大学院生です。
+  🎮 京都で情報工学を学ぶ大学院生
 </h3>
 
 <p align="center">
-  Currently, I am studying <strong>information engineering</strong> while <strong>developing games</strong> with a team called "TOMSN". 
-  My passion lies in creating unique gameplay experiences, especially using <strong>Unity</strong>．  
-  I also enjoy exploring <strong>research on cognition based on the amount of visual information</strong> and developing web apps．
+  I’m a graduate student majoring in <strong>Information Engineering</strong> in Kyoto.
+  <br>
+  I develop games with the student team <strong>TOMSN</strong>, mainly using <strong>Unity</strong>.
+  <br><br>
+  My interests include gameplay design, UX research,
+  and AI-driven interaction experiences in games.
+</p>
 
-  現在は<strong>情報工学</strong>を学びながら、「TOMSN」というチームでゲームを制作しています。
-  特に<strong>Unity</strong>を使ってユニークなゲームプレイ体験を創ることに情熱を注いでいます。
-  また、<strong>視覚情報の多寡による認知に関する研究</strong>やWebアプリ開発にも力を入れています。
+<p align="center">
+  情報工学を学びながら、
+  学生チーム「<strong>TOMSN</strong>」でUnityを用いたゲーム開発を行っています。
+  <br><br>
+  ゲームプレイ設計やUX研究、
+  AIによるインタラクション体験にも興味があります。
+</p>
+
+<!-- ==================== DIVIDER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2"/>
 </p>
 
 ---
@@ -28,9 +47,10 @@
 - 🌐 Vue / Nuxt, ReactによるWebサービス開発
 - 📊 アンケートを用いたUX分析
 - 🤝 チーム開発経験あり（Git / Bitbucket）
+- 📜 学会発表の経験あり（ゲームの視覚情報による満足度の影響）
 - 🌎 タイへ短期留学経験あり
 - 🏀 100人規模のバスケットボールサークルの代表（2022年1月~2024年8月）
-- 🎹 趣味でピアノを演奏しています(ドビュッシー, ショパン)
+- 🎹 趣味でピアノを演奏しています(ドビュッシー, ショパン, ゲームBGM)
 - 🏍️ バイクに乗るのが好きです(GSX-250R)
 
 ---
@@ -83,7 +103,7 @@
 | 研究用ゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	[GitHub](https://github.com/taka100822/puzzle-game) | [unityroom](https://unityroom.com/games/puzzlegame_practice) |
 | Taka's Portfolio | Portfolio | JS, React | 今までの制作物をポートフォリオとして公開 |	[GitHub](https://github.com/taka100822/Portfolio-Site) | [Web](https://taka100822.github.io/Portfolio-Site/) |
-| 未定 | Electronic work |  | 研究室の在籍管理システム（制作中） |	 |  |
+| 研究室の在籍管理システム | Electronic work |  | 研究室の在籍管理システム（制作中） |	 |  |
 | チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
 | 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約よりデータなし) | — |	— |
