@@ -1,0 +1,116 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.5" stop-color="#1B2735"/>
+      <stop offset="1" stop-color="#223B5A"/>
+    </linearGradient>
+
+    <!-- Neon Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(255,255,255,0.03)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bgGradient)"/>
+
+  <!-- Scanline Overlay -->
+  <rect width="1200" height="320" fill="url(#scanlines)" opacity="0.4"/>
+
+  <!-- Animated Line -->
+  <rect x="0" y="0" width="1200" height="2" fill="#58A6FF" opacity="0.5">
+    <animate attributeName="y" values="0;320;0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Left Decoration -->
+  <circle cx="100" cy="80" r="6" fill="#58A6FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="130" cy="120" r="4" fill="#7B68EE" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main Title -->
+  <text x="70" y="150"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="72"
+        font-weight="700"
+        fill="#FFFFFF"
+        filter="url(#glow)">
+    Taka10
+  </text>
+
+  <!-- Subtitle -->
+  <text x="75" y="195"
+        font-family="Consolas, monospace"
+        font-size="26"
+        fill="#58A6FF">
+    Unity Developer / Gameplay Designer
+  </text>
+
+  <text x="75" y="230"
+        font-family="Consolas, monospace"
+        font-size="22"
+        fill="#C9D1D9">
+    UX Researcher ・ Web Developer ・ Graduate Student in Kyoto
+  </text>
+
+  <!-- Terminal Box -->
+  <rect x="720" y="55" width="400" height="190" rx="18"
+        fill="rgba(13,17,23,0.7)"
+        stroke="#58A6FF"
+        stroke-width="2"/>
+
+  <!-- Terminal Dots -->
+  <circle cx="750" cy="82" r="6" fill="#FF5F56"/>
+  <circle cx="772" cy="82" r="6" fill="#FFBD2E"/>
+  <circle cx="794" cy="82" r="6" fill="#27C93F"/>
+
+  <!-- Terminal Text -->
+  <text x="745" y="125"
+        font-family="Consolas, monospace"
+        font-size="18"
+        fill="#58A6FF">
+    > loading profile...
+  </text>
+
+  <text x="745" y="160"
+        font-family="Consolas, monospace"
+        font-size="18"
+        fill="#FFFFFF">
+    > Unity skills detected
+  </text>
+
+  <text x="745" y="195"
+        font-family="Consolas, monospace"
+        font-size="18"
+        fill="#7B68EE">
+    > UX research initialized
+  </text>
+
+  <text x="745" y="230"
+        font-family="Consolas, monospace"
+        font-size="18"
+        fill="#00D4FF">
+    > status : READY
+  </text>
+
+  <!-- Bottom Accent Line -->
+  <rect x="70" y="275" width="1060" height="3" rx="2" fill="url(#bgGradient)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
