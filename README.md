@@ -25,23 +25,24 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2"/>
 </p>
 
----
-
 ## 🎯 Strengths
 
-- 🎮 Unityを使った2D/3Dゲーム制作（企画・実装）
-- 👾 BitSummit2025にてGamejamアワード受賞
-- 🏢 企業でのアルバイト（約2年）・インターンシップ（2週間）
-- 🌐 Vue / Nuxt, ReactによるWebサービス開発
-- 📊 アンケートを用いたUX分析
-- 🤝 チーム開発経験あり（Git / Bitbucket）
-- 📜 学会発表の経験あり（ゲームの視覚情報による満足度の影響）
-- 🌎 タイへ短期留学経験あり
-- 🏀 100人規模のバスケットボールサークルの代表（2022年1月~2024年8月）
-- 🎹 趣味でピアノを演奏しています(ドビュッシー, ショパン, ゲームBGM)
-- 🏍️ バイクに乗るのが好きです(GSX-250R)
+> Game Development × UX Research × Web Engineering
 
----
+- 🎮 Unityを使った2D / 3Dゲーム制作（企画・実装）
+- 👾 BitSummit2025にてGameJam Award受賞
+- 🏢 企業でのアルバイト経験（約2年）・インターンシップ経験
+- 🌐 Vue / Nuxt / ReactによるWebサービス開発
+- 📊 アンケートを用いたUX分析・研究
+- 🤝 Git / Bitbucketを用いたチーム開発
+- 📜 学会発表経験（ゲームの視覚情報と満足度の研究）
+- 🌎 タイへの短期留学経験
+
+> Personal
+
+- 🏀 元100人規模の大学バスケットボールサークル代表
+- 🎹 ピアノ（ドビュッシー / Game Music）
+- 🏍️ バイク乗り（GSX-250R）
 
 ## 🛠 Tech Stack
 
@@ -49,7 +50,7 @@
 ![](https://skillicons.dev/icons?i=c,cs,py,js,ts,java,kotlin,r,latex)
 
 **🌐 Frontend / Web Frameworks**  
-![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,tailwind)
+![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,vite,tailwind)
 
 **🔧 Tools & Platforms**  
 ![](https://skillicons.dev/icons?i=nodejs,npm,firebase,git,github,bitbucket)
@@ -60,21 +61,18 @@
 **🛠️ Dev Environments**  
 ![](https://skillicons.dev/icons?i=vscode,eclipse,linux,figma)
 
-**🧠 Others / Collaboration**  
+**💬 Others / Collaboration**  
 ![](https://skillicons.dev/icons?i=notion,discord)
 
 **🗂️ Productivity & Utility Tools (No Icon)**  
-- Slack
-- Redmine 
-- Google Workspace（Docs, Sheets, Slides, Forms, Drive, Gmail）  
-- Microsoft Office（Word, Excel, PowerPoint）
-- Canva
-- Zapier  
-- Tiled（2Dマップエディタ）  
-- CyberLink PowerDirector（動画編集）  
-- Revo Scan（3Dスキャナソフト）  
-- Photon（Unityでのマルチプレイ実装に使用）
-- miro
+
+`Slack` `Redmine` `Google Workspace` `Microsoft Office`
+`Canva` `Zapier` `Tiled` `PowerDirector`
+`Revo Scan` `Photon` `miro` `Cursor` `GitHub Copilot` 
+
+**🧠 AI Assistants**
+
+`ChatGPT` `Gemini` `Claude` `notebookLM`
 
 ---
 
