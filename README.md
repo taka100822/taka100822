@@ -11,23 +11,18 @@
 </p>
 
 <!-- ==================== ABOUT ==================== -->
-<h3 align="center">
-  🎮 京都で情報工学を学ぶ大学院生
-</h3>
 
 <p align="center">
   I’m a graduate student majoring in <strong>Information Engineering</strong> in Kyoto.
   <br>
   I develop games with the student team <strong>TOMSN</strong>, mainly using <strong>Unity</strong>.
-  <br><br>
   My interests include gameplay design, UX research,
   and AI-driven interaction experiences in games.
 </p>
 
 <p align="center">
-  情報工学を学びながら、
+  京都の大学院生で情報工学を専攻しつつ、
   学生チーム「<strong>TOMSN</strong>」でUnityを用いたゲーム開発を行っています。
-  <br><br>
   ゲームプレイ設計やUX研究、
   AIによるインタラクション体験にも興味があります。
 </p>
