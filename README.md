@@ -3,13 +3,6 @@
   <img src="./assets/header.svg" width="100%" />
 </p>
 
-<!-- ==================== BADGES ==================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-Developer-black?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Gameplay-Designer-7B68EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX-Researcher-00C2FF?style=for-the-badge"/>
-</p>
-
 <!-- ==================== ABOUT ==================== -->
 
 <p align="center">
@@ -114,3 +107,16 @@
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taka100822&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taka100822&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📫 Contact
+
+- X: https://x.com/taka10822GC
+- Portfolio: https://taka100822.github.io/Portfolio-Site/
