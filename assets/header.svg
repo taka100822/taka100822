@@ -1,116 +1,186 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="0.5" stop-color="#1B2735"/>
-      <stop offset="1" stop-color="#223B5A"/>
+
+    <!-- Background -->
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="320">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#132B45"/>
     </linearGradient>
 
-    <!-- Neon Glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+    <!-- Accent -->
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Scanline Pattern -->
-    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="rgba(255,255,255,0.03)"/>
+    <!-- Soft Glow -->
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="rgba(255,255,255,0.04)"
+            stroke-width="1"/>
     </pattern>
+
+    <!-- Scanline -->
+    <linearGradient id="scanLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+
   </defs>
 
   <!-- Background -->
   <rect width="1200" height="320" fill="url(#bgGradient)"/>
 
-  <!-- Scanline Overlay -->
-  <rect width="1200" height="320" fill="url(#scanlines)" opacity="0.4"/>
+  <!-- Grid -->
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.35"/>
 
-  <!-- Animated Line -->
-  <rect x="0" y="0" width="1200" height="2" fill="#58A6FF" opacity="0.5">
-    <animate attributeName="y" values="0;320;0" dur="8s" repeatCount="indefinite"/>
+  <!-- Ambient glow -->
+  <circle cx="980" cy="50" r="170" fill="#00D4FF" opacity="0.08" filter="url(#softGlow)"/>
+  <circle cx="240" cy="300" r="120" fill="#7B68EE" opacity="0.10" filter="url(#softGlow)"/>
+
+  <!-- Animated scan line -->
+  <rect x="-200" y="0" width="400" height="2"
+        fill="url(#scanLine)"
+        opacity="0.45">
+    <animate attributeName="y"
+             values="0;320;0"
+             dur="7s"
+             repeatCount="indefinite"/>
   </rect>
 
-  <!-- Left Decoration -->
-  <circle cx="100" cy="80" r="6" fill="#58A6FF" filter="url(#glow)">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Decorative lines -->
+  <line x1="60" y1="65" x2="470" y2="65"
+        stroke="url(#accentGradient)"
+        stroke-width="2"
+        opacity="0.7"/>
 
-  <circle cx="130" cy="120" r="4" fill="#7B68EE" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
+  <line x1="60" y1="255" x2="390" y2="255"
+        stroke="url(#accentGradient)"
+        stroke-width="1"
+        opacity="0.4"/>
 
   <!-- Main Title -->
-  <text x="70" y="150"
+  <text x="70" y="140"
         font-family="Segoe UI, Arial, sans-serif"
-        font-size="72"
+        font-size="74"
         font-weight="700"
         fill="#FFFFFF"
+        letter-spacing="3"
         filter="url(#glow)">
     Taka10
   </text>
 
   <!-- Subtitle -->
-  <text x="75" y="195"
+  <text x="75" y="182"
         font-family="Consolas, monospace"
-        font-size="26"
+        font-size="24"
         fill="#58A6FF">
     Unity Developer / Gameplay Designer
   </text>
 
-  <text x="75" y="230"
+  <text x="75" y="214"
         font-family="Consolas, monospace"
-        font-size="22"
-        fill="#C9D1D9">
-    UX Researcher ・ Web Developer ・ Graduate Student in Kyoto
+        font-size="17"
+        fill="#D2E3FF">
+    UX Research ・ Web Development ・ AI Systems
   </text>
 
-  <!-- Terminal Box -->
-  <rect x="720" y="55" width="400" height="190" rx="18"
-        fill="rgba(13,17,23,0.7)"
-        stroke="#58A6FF"
-        stroke-width="2"/>
-
-  <!-- Terminal Dots -->
-  <circle cx="750" cy="82" r="6" fill="#FF5F56"/>
-  <circle cx="772" cy="82" r="6" fill="#FFBD2E"/>
-  <circle cx="794" cy="82" r="6" fill="#27C93F"/>
-
-  <!-- Terminal Text -->
-  <text x="745" y="125"
+  <text x="75" y="242"
         font-family="Consolas, monospace"
-        font-size="18"
-        fill="#58A6FF">
-    > loading profile...
+        font-size="17"
+        fill="#8B949E">
+    Graduate Student in Kyoto
   </text>
 
-  <text x="745" y="160"
-        font-family="Consolas, monospace"
-        font-size="18"
-        fill="#FFFFFF">
-    > Unity skills detected
-  </text>
+  <!-- Terminal Window -->
+  <g filter="url(#glow)">
 
-  <text x="745" y="195"
-        font-family="Consolas, monospace"
-        font-size="18"
-        fill="#7B68EE">
-    > UX research initialized
-  </text>
+    <rect x="700" y="42"
+          width="430"
+          height="220"
+          rx="20"
+          fill="#0D1117"
+          fill-opacity="0.88"
+          stroke="#58A6FF"
+          stroke-opacity="0.5"
+          stroke-width="1.5"/>
 
-  <text x="745" y="230"
-        font-family="Consolas, monospace"
-        font-size="18"
-        fill="#00D4FF">
-    > status : READY
-  </text>
+    <!-- Header -->
+    <rect x="700" y="42"
+          width="430"
+          height="36"
+          rx="20"
+          fill="#111827"/>
 
-  <!-- Bottom Accent Line -->
-  <rect x="70" y="275" width="1060" height="3" rx="2" fill="url(#bgGradient)">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
-  </rect>
+    <circle cx="726" cy="60" r="5" fill="#FF5F56"/>
+    <circle cx="746" cy="60" r="5" fill="#FFBD2E"/>
+    <circle cx="766" cy="60" r="5" fill="#27C93F"/>
+
+    <text x="820" y="65"
+          font-family="Consolas, monospace"
+          font-size="13"
+          fill="#8B949E">
+      taka10_profile.exe
+    </text>
+
+    <!-- Terminal text -->
+    <text x="725" y="112"
+          font-family="Consolas, monospace"
+          font-size="17"
+          fill="#58A6FF">
+      > initializing system...
+    </text>
+
+    <text x="725" y="145"
+          font-family="Consolas, monospace"
+          font-size="17"
+          fill="#FFFFFF">
+      > Unity Engine connected
+    </text>
+
+    <text x="725" y="178"
+          font-family="Consolas, monospace"
+          font-size="17"
+          fill="#7B68EE">
+      > UX research module loaded
+    </text>
+
+    <text x="725" y="211"
+          font-family="Consolas, monospace"
+          font-size="17"
+          fill="#00D4FF">
+      > AI interaction ready
+    </text>
+
+    <text x="725" y="244"
+          font-family="Consolas, monospace"
+          font-size="17"
+          fill="#27C93F">
+      > STATUS : ONLINE_
+      <animate attributeName="opacity"
+               values="1;0.3;1"
+               dur="1s"
+               repeatCount="indefinite"/>
+    </text>
+
+  </g>
 
 </svg>
