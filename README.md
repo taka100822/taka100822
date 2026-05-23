@@ -6,7 +6,7 @@
 <!-- ==================== ABOUT ==================== -->
 
 <p align="center">
-  I’m a graduate student majoring in <strong>Information Engineering</strong> in Kyoto.
+  I am majoring in Information Engineering at the Kyoto Institute of Technology Graduate School.
   <br>
   I develop games with the student team <strong>TOMSN</strong>, mainly using <strong>Unity</strong>.
   My interests include gameplay design, UX research,
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  京都の大学院生で情報工学を専攻しています。
+  京都工芸繊維大学院で情報工学を専攻しています。。
   また、学生チーム「<strong>TOMSN</strong>」でUnityを用いたゲーム開発を行っています。
   ゲームプレイ設計やUX研究、AIによるインタラクション体験にも興味があります。
 </p>
