@@ -46,13 +46,13 @@
 ## 🛠 Tech Stack
 
 **📌 Languages**  
-![](https://skillicons.dev/icons?i=c,cs,py,js,ts,java,kotlin,r,latex)
+![](https://skillicons.dev/icons?i=c,cs,py,js,ts,java,kotlin,r,latex,bash,powershell)
 
 **🌐 Frontend / Web Frameworks**  
-![](https://skillicons.dev/icons?i=html,css,vue,nuxt,vuetify,react,vite,tailwind)
+![](https://skillicons.dev/icons?i=html,css,svg,vue,nuxt,vuetify,react,vite,tailwind)
 
 **🔧 Tools & Platforms**  
-![](https://skillicons.dev/icons?i=nodejs,npm,firebase,git,github,bitbucket,raspberrypi)
+![](https://skillicons.dev/icons?i=nodejs,npm,firebase,supabase,git,github,bitbucket,raspberrypi)
 
 **🎮 Game / 3D Tools**  
 ![](https://skillicons.dev/icons?i=unity,blender)
@@ -65,7 +65,7 @@
 `Cursor`
 
 **💬 Others / Collaboration**  
-![](https://skillicons.dev/icons?i=notion,discord)
+![](https://skillicons.dev/icons?i=notion,discord,bots)
 
 `Slack` `miro` `Redmine` `Google Workspace` `Microsoft Office` `PowerDirector` `Zapier` `Canva` 
 
