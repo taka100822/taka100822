@@ -88,8 +88,8 @@
 | 研究用ゲーム | 2DAction | Unity, C# | 視覚情報に関する研究 | [GitHub](https://github.com/taka100822/Graduation-Study) | [unityroom](https://unityroom.com/games/2d_actiongame) |
 | パズルゲーム | Puzzle | Unity, C# | パズドラのようなパズルゲーム（練習用） | 	[GitHub](https://github.com/taka100822/puzzle-game) | [unityroom](https://unityroom.com/games/puzzlegame_practice) |
 | Taka's Portfolio | Portfolio | JS, React | 今までの制作物をポートフォリオとして公開 |	[GitHub](https://github.com/taka100822/Portfolio-Site) | [Web](https://taka100822.github.io/Portfolio-Site/) |
-| 研究室在籍管理システム | Microcomputer | Vue, JS, Python, Raspberry Pi | 研究室の在籍者を可視化するシステム |	[GitHub](https://github.com/Dev-LAB-entry-exit-system/attendance-board-raspberry-controller) |  |
-| チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | 	— |
+| 研究室在籍管理システム | Microcomputer | Vue, JS, Python, Raspberry Pi | 研究室の在籍者を可視化するシステム |	[GitHub](https://github.com/Dev-LAB-entry-exit-system/attendance-board-raspberry-controller) | — |
+| チャットアプリ | App | Vue, Nuxt | チャットアプリ | [GitHub](https://github.com/taka100822/chat-app) | — |
 | 冷蔵庫管理アプリ | App | Vue, Nuxt | フロントエンドの1部分を担当 | [GitHub](https://github.com/KIT-HI-ProgrammingContestGroupC/fridge-manager) | 	— |
 | 電卓&じゃんけんアプリ | App | Kotlin | インターンで作成(秘密保持制約よりデータなし) | — |	— |
 
