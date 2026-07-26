@@ -104,16 +104,3 @@
 
 - **[BSGJ2025-w-12](https://github.com/BSGJ2025-w-12)**  
   BitSummitGameJam2025での共同開発チーム
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taka100822&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-## 📫 Contact
-
-- X: https://x.com/taka10822GC
-- Portfolio: https://taka100822.github.io/Portfolio-Site/
