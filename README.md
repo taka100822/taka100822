@@ -71,7 +71,7 @@
 
 **🧠 AI Assistants**
 
-`ChatGPT` `Gemini` `Claude` `notebookLM`
+`ChatGPT` `Gemini` `notebookLM` `Claude` `Claude Code`
 
 ---
 
@@ -82,7 +82,7 @@
 | DreamMayDay | Cooperative | Unity, C# | BSGM2025で制作、総合グランプリ受賞|	[GitHub](https://github.com/BSGJ2025-w-12/DreamMayday_Scripts) | [itch.io](https://bitsummit-gamejam.itch.io/dreammayday) |
 | CRASH REPORT | 3DAction | Unity, C# | TOMSN(学生チーム)での作品（PG&プランナー） |	[GitHub](https://github.com/TOMSNtomsn/CRASH-REPORT) | [unityroom](https://unityroom.com/games/crash_report) |
 | ふらちな海賊団 | Party | Unity, C# | 東京都武蔵野市で行われた学生チーム対抗ゲームジャム2026での作品（プランナー） |	— | [unityroom](https://unityroom.com/games/stgj2026_team5) |
-| 未定 | Adventure | Unity, C# | TOMSN(学生チーム)での第2弾（制作中） |	 |  |
+| フリージア | Adventure | Unity, C# | TOMSN(学生チーム)での第2弾となる言語解読ADV（制作中） |	 |  |
 | POGO・Stadium | Action Strategy | Unity, C# | アルバイトで企画・実装に携わったゲーム | — | [Steam](https://store.steampowered.com/app/3672410/POGO_Stadium) |
 | 研究室からの脱出 | **Multi** Escape | Unity, C# | 研究室チームで制作したマルチプレイ脱出ゲーム |	[GitHub](https://github.com/taka100822/LabEscapeGame) | — |
 | わけあい | 3DAction | Unity, C# | ハートを分け合って町を明るくするゲーム | [GitHub](https://github.com/taka100822/Unity1WeekGameJam_1st) | [unityroom](https://unityroom.com/games/wakeai) |
