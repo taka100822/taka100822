@@ -36,23 +36,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:58A6FF,100:7B68EE&height=2" width="100%" />
 </p>
 
-## `> whoami`
+## 👨‍💻 Quick Profile
 
-```csharp
-public class Taka10 : MonoBehaviour
-{
-    string   location  = "Kyoto, Japan 🇯🇵";
-    string   school    = "Kyoto Institute of Technology — Information Engineering (M.Eng.)";
-    string   team      = "TOMSN";
-    string[] focus     = { "Gameplay Design", "UX Research", "AI Interaction" };
-    string[] hobbies   = { "🎹 Piano (Debussy / Game Music)", "🏍️ GSX-250R", "🏀 Basketball" };
-
-    void Start()
-    {
-        Debug.Log("Let's make something fun together!");
-    }
-}
-```
+| | |
+|---|---|
+| 📍 **Location** | Kyoto, Japan |
+| 🎓 **School** | 京都工芸繊維大学大学院 情報工学専攻 |
+| 🎮 **Team** | [TOMSN](https://github.com/TOMSNtomsn)（学生ゲーム開発チーム） |
+| 🔭 **Focus** | ゲームプレイ設計 / UX研究 / AIインタラクション |
+| 🎹 **Hobbies** | ピアノ / バイク（GSX-250R）/ バスケットボール |
 
 ## 🎯 Strengths
 
